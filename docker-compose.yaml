@@ -8,4 +8,4 @@ services:
     ports:
     - "3000:3000"
     environment:
-      OUTPUT2: "hello from nchttp@docker"
+      OUTPUT: "hello from nchttp@docker"
